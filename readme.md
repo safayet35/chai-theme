@@ -20,9 +20,8 @@ Welcome to **Chai Theme**, a stylish and customizable theme extension that bring
 
 Here are some images showcasing the features of Chai Theme:
 
-![Option 1](path_to_image_1)
-![Option 2](path_to_image_2)
-![Option 3](path_to_image_3)
+![screenshot](https://raw.githubusercontent.com/safayet35/chai-theme/refs/heads/main/img1.jpg)
+![screenshot](https://raw.githubusercontent.com/safayet35/chai-theme/refs/heads/main/img2.jpg)
 
 ## Contribution
 
