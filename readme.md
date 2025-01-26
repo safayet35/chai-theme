@@ -1,13 +1,35 @@
-# Acode Editor Theme Template
+# Chai Theme
 
-- clone This repo
-- npm install
-- Go to `./src/main.js` file and change themeName variable .
-- Name Must be lowercase
-- Name Must be separated by `-` . example `vscode-dark`
-- Then go to `./src/style.scss`
-- There Change the selector name exactly as themeName variable from `main.js` with a prefix of `.ace-` . example `.ace-vscode-dark`
-- Then inside Just Change color according to your theme
-- After finish do `npm run build-release`
+Welcome to **Chai Theme**, a stylish and customizable theme extension that brings a fresh, warm, and smooth look to your browsing experience. With Chai Theme, you can enhance the aesthetic of your browser with beautiful, hand-crafted visuals.
 
-For more details about each classes go to [Ace kitchen Sink](https://ace.c9.io/build/kitchen-sink.html) `enable show token info` now on hover you can see each token.
+## Features
+
+- Clean and minimalistic design
+- Easy-to-use interface
+- Customizable color schemes to match your style
+- Optimized for performance, ensuring smooth browsing
+- right now only for javascript
+
+## Installation
+
+1. Download Chai Theme plugin from the store and install
+2. Go to setting > theme then select Chai theme
+3. Enjoy the new look of your code editor with Chai Theme!
+
+## Screenshots
+
+Here are some images showcasing the features of Chai Theme:
+
+![Option 1](path_to_image_1)
+![Option 2](path_to_image_2)
+![Option 3](path_to_image_3)
+
+## Contribution
+
+Feel free to contribute to the development of Chai Theme. You can open an issue or submit a pull request on
+[GitHub](https://github.com/safayet35/chai-theme).
+
+## Contact
+
+- GitHub: [Safayet Rahman's GitHub Profile](https://github.com/safayet35)
+- Email: [sf.safayet35@gmail.com]
