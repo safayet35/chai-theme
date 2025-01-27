@@ -4,11 +4,11 @@ Welcome to **Chai Theme**, a stylish and customizable theme extension that bring
 
 ## Features
 
-- Clean and minimalistic design
-- Easy-to-use interface
-- Customizable color schemes to match your style
-- Optimized for performance, ensuring smooth browsing
-- right now only for javascript
+-   Clean and minimalistic design
+-   Easy-to-use interface
+-   Customizable color schemes to match your style
+-   Optimized for performance, ensuring smooth browsing
+-   Right now only for javascript,jsx,css and html
 
 ## Installation
 
@@ -20,13 +20,18 @@ Welcome to **Chai Theme**, a stylish and customizable theme extension that bring
 
 Here are some images showcasing the features of Chai Theme:
 
-![screenshot](https://raw.githubusercontent.com/safayet35/chai-theme/refs/heads/main/img1.jpg?token=GHSAT0AAAAAAC5FERQQV2Q4IUTZVPHBHKYEZ4XMFIQ)
+![screenshot](https://raw.githubusercontent.com/safayet35/chai-theme/refs/heads/main/img1.jpg)
 
 ---
 
-![screenshot](https://raw.githubusercontent.com/safayet35/chai-theme/refs/heads/main/img2.jpg?token=GHSAT0AAAAAAC5FERQQLNM22QLWQM5E2XSMZ4XMF4Q)
+![screenshot](https://raw.githubusercontent.com/safayet35/chai-theme/refs/heads/main/img2.jpg)
+
+## Contribution
+
+Feel free to contribute to the development of Chai Theme. You can open an issue
+or submit a pull request on [GitHub](https://github.com/safayet35/chai-theme).
 
 ## Contact
 
-- If you are bangladeshi and doesn't have bank account you can payment also with your bkash account. Email me!
-- Email: [sf.safayet35@gmail.com]
+-   GitHub: [Safayet Rahman's GitHub Profile](https://github.com/yourusername)
+-   Email: [sf.safayet35@gmail.com]
