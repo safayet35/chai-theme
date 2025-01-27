@@ -20,16 +20,11 @@ Welcome to **Chai Theme**, a stylish and customizable theme extension that bring
 
 Here are some images showcasing the features of Chai Theme:
 
-<<<<<<< HEAD
-![screenshot](https://raw.githubusercontent.com/safayet35/chai-theme/refs/heads/main/img1.jpg)
-![screenshot](https://raw.githubusercontent.com/safayet35/chai-theme/refs/heads/main/img2.jpg)
-=======
-![screenshot](https://raw.githubusercontent.com/safayet35/chai-theme/refs/heads/main/img1.jpg?token=GHSAT0AAAAAAC5FERQRZI7HELFF43NOFEQ4Z4XFG2A)
->>>>>>> af820dc (updated code readme and plugin.json files)
+![screenshot](https://raw.githubusercontent.com/safayet35/chai-theme/refs/heads/main/img1.jpg?token=GHSAT0AAAAAAC5FERQRLZ4LRMO7RODYTBAWZ4XGCFQ)
 
 ---
 
-![screenshot](https://raw.githubusercontent.com/safayet35/chai-theme/refs/heads/main/img2.jpg?token=GHSAT0AAAAAAC5FERQRKPYDYW6XTWVRY4E6Z4XFHXA)
+![screenshot](https://raw.githubusercontent.com/safayet35/chai-theme/refs/heads/main/img2.jpg?token=GHSAT0AAAAAAC5FERQQOD43NCS4NWF4624GZ4XGCSQ)
 
 ## Contact
 
