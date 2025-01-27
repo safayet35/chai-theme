@@ -20,15 +20,18 @@ Welcome to **Chai Theme**, a stylish and customizable theme extension that bring
 
 Here are some images showcasing the features of Chai Theme:
 
+<<<<<<< HEAD
 ![screenshot](https://raw.githubusercontent.com/safayet35/chai-theme/refs/heads/main/img1.jpg)
 ![screenshot](https://raw.githubusercontent.com/safayet35/chai-theme/refs/heads/main/img2.jpg)
+=======
+![screenshot](https://raw.githubusercontent.com/safayet35/chai-theme/refs/heads/main/img1.jpg?token=GHSAT0AAAAAAC5FERQRZI7HELFF43NOFEQ4Z4XFG2A)
+>>>>>>> af820dc (updated code readme and plugin.json files)
 
-## Contribution
+---
 
-Feel free to contribute to the development of Chai Theme. You can open an issue or submit a pull request on
-[GitHub](https://github.com/safayet35/chai-theme).
+![screenshot](https://raw.githubusercontent.com/safayet35/chai-theme/refs/heads/main/img2.jpg?token=GHSAT0AAAAAAC5FERQRKPYDYW6XTWVRY4E6Z4XFHXA)
 
 ## Contact
 
-- GitHub: [Safayet Rahman's GitHub Profile](https://github.com/safayet35)
+- If you are bangladeshi and doesn't have bank account you can payment also with your bkash account. Email me!
 - Email: [sf.safayet35@gmail.com]

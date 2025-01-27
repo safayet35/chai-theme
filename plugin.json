@@ -4,7 +4,9 @@
 	"main": "dist/main.js",
 	"version": "1.0.0",
 	"readme": "readme.md",
+	"minVersionCode": 1,
 	"icon": "icon.png",
+	"price": "50",
 	"files": [],
 	"author": {
 		"name": "Safayet Rahman",
