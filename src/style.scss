@@ -3,255 +3,266 @@
  */
 
 .ace-chai-theme {
-	color: #becfdaff; // default color
-	background-color: #010107; // background-color of editor container
+    color: #becfdaff; // default color
+    background-color: #010107; // background-color of editor container
 
-	// left side line number area
-	.ace_gutter {
-		color: #4d6c80; // for line number color
-		// background-color: ;  if not added it will be same as editor container
-	}
+    // left side line number area
+    .ace_gutter {
+        color: #4d6c80; // for line number color
+        // background-color: ;  if not added it will be same as editor container
+    }
 
-	// Active line for left side Line number area
-	.ace_gutter-active-line {
-		color: #61a6d1; // for line number color active line
-		// background-color: ; if not added it will be same as editor container
-	}
+    // Active line for left side Line number area
+    .ace_gutter-active-line {
+        color: #61a6d1; // for line number color active line
+        // background-color: ; if not added it will be same as editor container
+    }
 
-	// vertical Line after 80 character if enabled
-	.ace_print-margin {
-		width: 1px; // change width 1px
-		background: #1679b6bf;
-	}
+    // vertical Line after 80 character if enabled
+    .ace_print-margin {
+        width: 1px; // change width 1px
+        background: #1679b6bf;
+    }
 
-	// Cursor color
-	.ace_cursor {
-		color: #ea7773;
-	}
+    // Cursor color
+    .ace_cursor {
+        color: #ea7773;
+    }
 
-	// selection
-	.ace_marker-layer .ace_selection {
-		background: #49ace933;
-		border-radius: 0;
-	}
+    // selection
+    .ace_marker-layer .ace_selection {
+        background: #49ace933;
+        border-radius: 0;
+    }
 
-	// Multiple cursor's active selection
-	.ace_multiselect .ace_selection.ace_start {
-		box-shadow: 0 0 3px black;
-	}
+    // Multiple cursor's active selection
+    .ace_multiselect .ace_selection.ace_start {
+        box-shadow: 0 0 3px black;
+    }
 
-	.ace_marker-layer .ace_step {
-		background: rgb(198, 219, 174);
-	}
+    .ace_marker-layer .ace_step {
+        background: rgb(198, 219, 174);
+    }
 
-	// highlights Matching brackets (Only change border color)
-	.ace_marker-layer .ace_bracket {
-		margin: -1px 0 0 -1px;
-		border: 1px solid #1679b622; //
-	}
+    // highlights Matching brackets (Only change border color)
+    .ace_marker-layer .ace_bracket {
+        margin: -1px 0 0 -1px;
+        border: 1px solid #1679b622; //
+    }
 
-	// editor container active line
-	.ace_marker-layer .ace_active-line {
-		//	border: 1px solid #3a424a;
-		//	box-sizing: border-box;
-		background-color: #0c3f5fff;
-	}
+    // editor container active line
+    .ace_marker-layer .ace_active-line {
+        //	border: 1px solid #3a424a;
+        //	box-sizing: border-box;
+        background-color: #0c3f5fff;
+    }
 
-	// next match for the current selected word
-	// try a bit transparent color
-	.ace_marker-layer .ace_selected-word {
-		background-color: #1679b64d;
-	}
+    // next match for the current selected word
+    // try a bit transparent color
+    .ace_marker-layer .ace_selected-word {
+        background-color: #1679b64d;
+    }
 
-	.ace_invisible {
-		color: #1679b6bf; //change #52524d
-	}
+    .ace_invisible {
+        color: #1679b6bf; //change #52524d
+    }
 
-	/**
+    /**
    * keywords
    * for example if else 
    * ID in css
    */
-	.hljs-keyword,
-	.ace_keyword {
-		color: #df769bff;
-	}
+    .hljs-keyword,
+    .ace_keyword {
+        color: #df769bff;
+    }
 
-	// example =
-	.ace_keyword.ace_operator {
-		color: #df769bff;
-	}
+    // example =
+    .ace_keyword.ace_operator {
+        color: #df769bff;
+    }
 
-	.ace_constant.ace_language {
-		color: #7060ebff;
-	}
+    .ace_constant.ace_language {
+        color: #7060ebff;
+    }
 
-	// numbers
-	.ace_constant.ace_numeric {
-		color: #7060ebff;
-	}
+    // numbers
+    .ace_constant.ace_numeric {
+        color: #7060ebff;
+    }
 
-	.ace_constant.ace_character {
-		color: #7060ebff;
-	}
+    .ace_constant.ace_character {
+        color: #7060ebff;
+    }
 
-	.ace_constant.ace_character.ace_escape {
-		color: #ff79c6;
-	}
+    .ace_constant.ace_character.ace_escape {
+        color: #ff79c6;
+    }
 
-	// excape in regex
-	.ace_constant.ace_other {
-		color: #bd93f9;
-	}
+    // excape in regex
+    .ace_constant.ace_other {
+        color: #bd93f9;
+    }
 
-	// const abc = "hello"
-	// abc will have the color
-	.hljs-title,
-	.ace_identifier {
-		color: #e4b781ff; //never change
-	}
+    // const abc = "hello"
+    // abc will have the color
+    .hljs-title,
+    .ace_identifier {
+        color: #e4b781ff; //never change
+    }
 
-	// url() attr() in css
-	.ace_support.ace_function {
-		color: #16a3b6ff;
-	}
+    // url() attr() in css
+    .ace_support.ace_function {
+        color: #49d6e9ff;
+    }
 
-	//in js -> addEventListener etc
-	.ace_support.ace_function.ace_dom {
-		color: #16a3b6ff; // if not provided it will take color of ace_support.ace_function
-	}
+    //in js -> addEventListener etc
+    .ace_support.ace_function.ace_dom {
+        color: #16a3b6ff; // if not provided it will take color of ace_support.ace_function
+    }
 
-	// in js style, length etc
-	// in css auto, inset, inline-block etc
-	.ace_support.ace_constant {
-		color: #16a3b6ff;
-	}
+    // in js style, length etc
+    // in css auto, inset, inline-block etc
+    .ace_support.ace_constant {
+        color: #49e9a6ff;
+    }
 
-	// in js any variable or import starting with uppercase
-	// requires extra syntax highlights plugin
-	.ace_class {
-		color: #d5971aff;
-	}
+    // in js any variable or import starting with uppercase
+    // requires extra syntax highlights plugin
+    .ace_class {
+        color: #d5971aff;
+    }
 
-	// window document Array Object  Math  Uint32Array isNaN
-	.ace_variable.ace_language {
-		color: #e66533ff;
-	}
+    // window document Array Object  Math  Uint32Array isNaN
+    .ace_variable.ace_language {
+        color: #e66533ff;
+    }
 
-	// in css display, transform, animation etc
-	.ace_support.ace_type {
-		color: #16a3b6ff;
-	}
+    // in css display, transform, animation etc
+    .ace_support.ace_type {
+        color: #16a3b6ff;
+    }
 
-	// tag name in html <div>
-	.ace_meta.ace_tag {
-		color: #57afff;
-	}
+    // tag name in html <div>
+    .ace_meta.ace_tag {
+        color: #e66533ff;
+    }
 
-	// let const var also =>
-	.ace_storage,
-	.ace_storage.ace_type {
-		color: #e66533ff;
-	}
+    // let const var also =>
+    .ace_storage,
+    .ace_storage.ace_type {
+        color: #e66533ff;
+    }
 
-	.ace_invalid {
-		color: #f8f8f0;
-		background-color: #e3541cff;
-	}
+    .ace_invalid {
+        color: #f8f8f0;
+        background-color: #e3541cff;
+    }
 
-	.ace_invalid.ace_deprecated {
-		color: #f8f8f0;
-		background-color: #bd93f9;
-	}
+    .ace_invalid.ace_deprecated {
+        color: #f8f8f0;
+        background-color: #bd93f9;
+    }
 
-	// string
-	.ace_string {
-		color: #49e9a6ff;
-	}
+    // string
+    .ace_string {
+        color: #49e9a6ff;
+    }
 
-	// comment
-	.ace_comment {
-		color: #dcdcdcff;
-	}
+    // comment
+    .ace_comment {
+        color: #dcdcdcff;
+    }
 
-	// .class name in css
-	.ace_variable {
-		color: #dcdcdcff;
-	}
+    // .class name in css
+    .ace_variable {
+        color: #d5971aff;
+    }
 
-	// anything without . or # in css
-	// e.g. body h1
+    // anything without . or # in css
+    // e.g. body h1
 
-	.ace_constant {
-		color: #16a3b6ff; //change #d7ba7d
-	}
+    .ace_constant {
+        color: #16a3b6ff; //change #d7ba7d
+    }
 
-	// function parameters (abc) =>
-	.hljs-params,
-	.ace_variable.ace_parameter {
-		color: #e4b781ff;
-	}
+    // function parameters (abc) =>
+    .hljs-params,
+    .ace_variable.ace_parameter {
+        color: #e4b781ff;
+    }
 
-	// attribute name in html
-	.ace_entity.ace_other.ace_attribute-name {
-		color: #16a3b6ff;
-	}
+    // attribute name in html
+    .ace_entity.ace_other.ace_attribute-name {
+        color: #16a3b6ff;
+    }
 
-	// <> in html
-	.ace_xml-pe.ace_xml,
-	.ace_punctuation.ace_tag {
-		color: #999;
-	}
+    // <> in html
+    .ace_xml-pe.ace_xml,
+    .ace_punctuation.ace_tag {
+        color: #999;
+    }
 
-	// html tag
-	.ace_tag-name.ace_tag,
-	.ace_entity.ace_name.ace_tag {
-		color: #57afff;
-	}
+    // html tag
+    .ace_tag-name.ace_tag,
+    .ace_entity.ace_name.ace_tag {
+        color: #57afff;
+    }
 
-	.ace_paren,
-	.ace_rparen {
-		color: gold;
-	}
-	.ace_paren,
-	.ace_lparen {
-		color: #ff79c6;
-	}
+    .ace_paren,
+    .ace_rparen {
+        color: gold;
+    }
+    .ace_paren,
+    .ace_lparen {
+        color: #ff79c6;
+    }
 
-	/**
+    /**
    * Don't change indent guide 
    */
 
-	.ace_indent-guide {
-		background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEklEQVQImWPQ09NrYAgMjP4PAAtGAwchHMyAAAAAAElFTkSuQmCC)
-			right repeat-y;
-	}
+    .ace_indent-guide {
+        background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEklEQVQImWPQ09NrYAgMjP4PAAtGAwchHMyAAAAAAElFTkSuQmCC)
+            right repeat-y;
+    }
 
-	.ace_indent-guide-active {
-		background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEklEQVQIW2PQ1dX9zzBz5sz/ABCcBFFentLlAAAAAElFTkSuQmCC)
-			right repeat-y;
-	}
+    .ace_indent-guide-active {
+        background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEklEQVQIW2PQ1dX9zzBz5sz/ABCcBFFentLlAAAAAElFTkSuQmCC)
+            right repeat-y;
+    }
 
-	/**
+    /**
    * All the highlight rules bellow require extra syntax highlight plugin
   **/
 
-	// innerHTML, classList etc
-	.ace_support.ace_constant.ace_js {
-		color: #a6ffbd;
-	}
+    // innerHTML, classList etc
+    .ace_support.ace_constant.ace_js {
+        color: #a6ffbd;
+    }
 
-	// all function call in js
-	.ace_entity.ace_name.ace_function {
-		color: #16a3b6ff;
-	}
-	.ace_support.ace_constant.ace_css-in-js {
-		color: #2fc7b6;
-	}
+    // all function call in js
+    .ace_entity.ace_name.ace_function {
+        color: #16a3b6ff;
+    }
+    .ace_support.ace_constant.ace_css-in-js {
+        color: #2fc7b6;
+    }
 }
 
 // updated code
 
-.ace_.doc-start {
-	background-color: #1679b6bf;
+//  .ace_xml-pe.ace_xml,
+//    .ace_punctuation.ace_tag
+// jsx div
+.ace_meta.ace_tag.ace_tag-name.ace_xml {
+    color: #e66533ff;
+}
+// jsx className
+.ace_entity.ace_other.ace_attribute-name.ace_xml {
+    color: #d5971aff;
+}
+
+.ace_string.ace_attribute-value.ace_xml {
+    color: #dcdcdcff;
 }
