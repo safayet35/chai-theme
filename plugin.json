@@ -1,15 +1,15 @@
 {
-	"id": "acode.plugin.editorTheme",
-	"name": "Chai Theme",
-	"main": "dist/main.js",
-	"version": "1.0.0",
-	"readme": "readme.md",
-	"minVersionCode": 1,
-	"icon": "icon.png",
-	"files": [],
-	"author": {
-		"name": "Safayet Rahman",
-		"email": "sf.safayet35@gmail.com",
-		"github": "safayet35"
-	}
+    "id": "acode.plugin.chaiTheme",
+    "name": "Chai Theme",
+    "main": "dist/main.js",
+    "version": "1.0.0",
+    "readme": "readme.md",
+    "minVersionCode": 1,
+    "icon": "icon.png",
+    "files": [],
+    "author": {
+        "name": "Safayet Rahman",
+        "email": "sf.safayet35@gmail.com",
+        "github": "safayet35"
+    }
 }
