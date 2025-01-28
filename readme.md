@@ -33,5 +33,5 @@ or submit a pull request on [GitHub](https://github.com/safayet35/chai-theme).
 
 ## Contact
 
--   GitHub: [Safayet Rahman's GitHub Profile](https://github.com/yourusername)
+-   GitHub: [Safayet Rahman's GitHub Profile](https://github.com/safayet35)
 -   Email: [sf.safayet35@gmail.com]

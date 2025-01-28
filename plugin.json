@@ -1,8 +1,8 @@
 {
-    "id": "acode.plugin.chaiTheme",
+    "id": "acode.plugin.chaitheme",
     "name": "Chai Theme",
     "main": "dist/main.js",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "readme": "readme.md",
     "minVersionCode": 1,
     "icon": "icon.png",
